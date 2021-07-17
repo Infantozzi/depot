@@ -9,5 +9,5 @@ one:
 two:
   title: MyString
   description: MyText
-  image_url: ruby.jpg
+  image_url: rails.png
   price: 9.99
